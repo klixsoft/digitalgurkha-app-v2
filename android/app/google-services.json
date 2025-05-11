@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732466765920",
+    "project_id": "digital-gurkha-d81ba",
+    "storage_bucket": "digital-gurkha-d81ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732466765920:android:a7db59565198daece2a305",
+        "android_client_info": {
+          "package_name": "com.digitalgurkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalj9F-q03U87CIRfSj8w9vQg6cVl5Wt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

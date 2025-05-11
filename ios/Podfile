@@ -33,3 +33,5 @@ target 'digitalgurkha' do
     )
   end
 end
+
+pod 'RNFS', :path => '../node_modules/react-native-fs'
